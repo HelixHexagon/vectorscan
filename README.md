@@ -98,7 +98,7 @@ some small but necessary changes were made that might break compatibility with h
 In order to build on Debian/Ubuntu make sure you install the following build-dependencies
 
 ```
-$ sudo apt build-essential cmake ragel pkg-config libsqlite3-dev libpcap-dev
+$ sudo apt install build-essential cmake ragel pkg-config libsqlite3-dev libpcap-dev
 ```
 
 ### Other distributions
